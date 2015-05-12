@@ -20,17 +20,32 @@ input {
 
 }
 
-#calculateBtn {
-  width: 250px;
-  height: 50px;
-  font-family: 'Amatic SC', cursive;
-  font-size: .8em;
-
-}
-
-#calculateBtn:hover {
+#addBtn:hover {
   background-color: gray;
 }
+
+#subtractBtn:hover {
+  background-color: gray;
+}
+
+#multiplyBtn:hover {
+  background-color: gray;
+}
+
+#divideBtn:hover {
+  background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
