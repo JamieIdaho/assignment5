@@ -9,7 +9,15 @@ body {
 
 }
 
+input {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Amatic SC', cursive;
+
+}
+
 #calculateBtn {
+  width: 132px;
   font-family: 'Amatic SC', cursive;
   font-size: 5.4em;
 
